@@ -19,7 +19,7 @@ var hierarchy =
     [ "flash_ut_dev", "structflash__ut__dev.html", null ],
     [ "flashfs_logfs_cfg", "structflashfs__logfs__cfg.html", null ],
     [ "FontDimensions", "struct_font_dimensions.html", null ],
-    [ "uavobject.UAVObjectField::FType", "classuavobject_1_1_u_a_v_object_field_1_1_f_type.html", null ],
+    [ "uavobject.UAVObjectField.FType", "classuavobject_1_1_u_a_v_object_field_1_1_f_type.html", null ],
     [ "GlobalAttitudeVariables", "struct_global_attitude_variables.html", null ],
     [ "GlobalDcmDriftVariables", "struct_global_dcm_drift_variables.html", null ],
     [ "GPS_RX_STATS", "struct_g_p_s___r_x___s_t_a_t_s.html", null ],
@@ -29,21 +29,11 @@ var hierarchy =
     [ "i2c_adapter_transition", "structi2c__adapter__transition.html", null ],
     [ "i2c_vm_regs", "structi2c__vm__regs.html", null ],
     [ "I2CVMData", "struct_i2_c_v_m_data.html", null ],
-    [ "I2CVMTest", "class_i2_c_v_m_test.html", null ],
     [ "initmodule_t", "structinitmodule__t.html", null ],
     [ "jedec_flash_dev", "structjedec__flash__dev.html", null ],
     [ "l3gd20_dev", "structl3gd20__dev.html", null ],
     [ "logfs_state", "structlogfs__state.html", null ],
-    [ "LogfsTestRaw", "class_logfs_test_raw.html", [
-      [ "LogfsTestCooked", "class_logfs_test_cooked.html", null ],
-      [ "LogfsTestCookedMultiPart", "class_logfs_test_cooked_multi_part.html", null ]
-    ] ],
     [ "lsm303_dev", "structlsm303__dev.html", null ],
-    [ "MiscMath", "class_misc_math.html", [
-      [ "BoundMinMax", "class_bound_min_max.html", null ],
-      [ "BoundSym", "class_bound_sym.html", null ],
-      [ "CircularModulusDeg", "class_circular_modulus_deg.html", null ]
-    ] ],
     [ "mpu6000_dev", "structmpu6000__dev.html", null ],
     [ "mpu6050_dev", "structmpu6050__dev.html", null ],
     [ "mpu9150_dev", "structmpu9150__dev.html", null ],
@@ -150,7 +140,6 @@ var hierarchy =
     [ "rtc_callback_entry", "structrtc__callback__entry.html", null ],
     [ "SDCARDCidTypeDef", "struct_s_d_c_a_r_d_cid_type_def.html", null ],
     [ "SDCARDCsdTypeDef", "struct_s_d_c_a_r_d_csd_type_def.html", null ],
-    [ "SinLookup", "class_sin_lookup.html", null ],
     [ "slot_header", "structslot__header.html", null ],
     [ "splashEntry", "structsplash_entry.html", null ],
     [ "stm32_dma", "structstm32__dma.html", null ],
@@ -159,6 +148,19 @@ var hierarchy =
     [ "stm32_gpio", "structstm32__gpio.html", null ],
     [ "stm32_irq", "structstm32__irq.html", null ],
     [ "t_fifo_buffer", "structt__fifo__buffer.html", null ],
+    [ "Test", null, [
+      [ "I2CVMTest", "class_i2_c_v_m_test.html", null ],
+      [ "LogfsTestRaw", "class_logfs_test_raw.html", [
+        [ "LogfsTestCooked", "class_logfs_test_cooked.html", null ],
+        [ "LogfsTestCookedMultiPart", "class_logfs_test_cooked_multi_part.html", null ]
+      ] ],
+      [ "MiscMath", "class_misc_math.html", [
+        [ "BoundMinMax", "class_bound_min_max.html", null ],
+        [ "BoundSym", "class_bound_sym.html", null ],
+        [ "CircularModulusDeg", "class_circular_modulus_deg.html", null ]
+      ] ],
+      [ "SinLookup", "class_sin_lookup.html", null ]
+    ] ],
     [ "TTime", "struct_t_time.html", null ],
     [ "UAVOBase", "struct_u_a_v_o_base.html", null ],
     [ "uavobject.UAVObject", "classuavobject_1_1_u_a_v_object.html", null ],
@@ -189,7 +191,7 @@ var hierarchy =
     [ "UBXHeader", "struct_u_b_x_header.html", null ],
     [ "UBXPacket", "struct_u_b_x_packet.html", null ],
     [ "UBXPayload", "union_u_b_x_payload.html", null ],
-    [ "uavobject.UAVObjectMetadata::UpdateMode", "classuavobject_1_1_u_a_v_object_metadata_1_1_update_mode.html", null ],
+    [ "uavobject.UAVObjectMetadata.UpdateMode", "classuavobject_1_1_u_a_v_object_metadata_1_1_update_mode.html", null ],
     [ "usb_cdc_acm_func_desc", "structusb__cdc__acm__func__desc.html", null ],
     [ "usb_cdc_callmgmt_func_desc", "structusb__cdc__callmgmt__func__desc.html", null ],
     [ "usb_cdc_header_func_desc", "structusb__cdc__header__func__desc.html", null ],

@@ -1,26 +1,20 @@
 var revocalibration_8h =
 [
-    [ "RevoCalibrationMagBiasElem", "group___revo_calibration.html#ga244c0407e32ad0219f4ac5974ace2451", null ],
-    [ "RevoCalibrationMagScaleElem", "group___revo_calibration.html#ga1cc9bf5f2f2daaf599fdae39fc82eb4a", null ],
-    [ "RevoCalibrationConnectCallback", "group___revo_calibration.html#ga76c03bee82e912ee9ee83ad4c535e3e0", null ],
-    [ "RevoCalibrationConnectQueue", "group___revo_calibration.html#ga78527375b13939a310fde91e9426c277", null ],
-    [ "RevoCalibrationCreateInstance", "group___revo_calibration.html#gacc2f733bbe70a42c6dbbd3cb908359ea", null ],
-    [ "RevoCalibrationGet", "group___revo_calibration.html#gac23026dff859e7ad5d84c3ce9ffb89e2", null ],
-    [ "RevoCalibrationGetMetadata", "group___revo_calibration.html#ga717499452e8aaf72593ee7a06edded1c", null ],
-    [ "RevoCalibrationHandle", "group___revo_calibration.html#gaba21fcb0d8a528bf66af20fb420e6978", null ],
-    [ "RevoCalibrationInitialize", "group___revo_calibration.html#gaa59ef87535d180d34f26a0e8058ef736", null ],
-    [ "RevoCalibrationInstGet", "group___revo_calibration.html#gaf4c80b9ac80f8fc3253496e604fed378", null ],
-    [ "RevoCalibrationInstSet", "group___revo_calibration.html#gac3912ac55911e60a0432d11a5aca650f", null ],
-    [ "RevoCalibrationInstUpdated", "group___revo_calibration.html#ga99b88255f1d3f2023b4b8238a9abe506", null ],
-    [ "RevoCalibrationMagBiasGet", "group___revo_calibration.html#ga2081dfa19e981432358dd5358406d88e", null ],
-    [ "RevoCalibrationMagBiasSet", "group___revo_calibration.html#ga8d3305964876a30d165a08078d4cb086", null ],
-    [ "RevoCalibrationMagScaleGet", "group___revo_calibration.html#ga8804433d5289a9f5817f9e0ae3c27dd6", null ],
-    [ "RevoCalibrationMagScaleSet", "group___revo_calibration.html#ga0234e0dccc5ccb124f81161418b6008c", null ],
-    [ "RevoCalibrationReadOnly", "group___revo_calibration.html#gaf11cd3d77979144983fd3d92e67aad65", null ],
-    [ "RevoCalibrationRequestInstUpdate", "group___revo_calibration.html#gaea481d9c88ab1604cddba9c64ca59d47", null ],
-    [ "RevoCalibrationRequestUpdate", "group___revo_calibration.html#ga887a60956286e7eb3bc47fb1269db289", null ],
-    [ "RevoCalibrationSet", "group___revo_calibration.html#gaa21619f6e94876dc106d2f4787d0a399", null ],
-    [ "RevoCalibrationSetDefaults", "group___revo_calibration.html#ga826a0dd8b0be68955104479f85ecb01a", null ],
-    [ "RevoCalibrationSetMetadata", "group___revo_calibration.html#gaa27263181b2b153f5286d930708180cc", null ],
-    [ "RevoCalibrationUpdated", "group___revo_calibration.html#gaf4a60bba9b10c46d930470b054b93f5a", null ]
+    [ "RevoCalibrationMagBiasElem", "revocalibration_8h.html#ga244c0407e32ad0219f4ac5974ace2451", [
+      [ "REVOCALIBRATION_MAGBIAS_X", "revocalibration_8h.html#gga244c0407e32ad0219f4ac5974ace2451a7c14bfb0859ec04b49b4f280270b86b3", null ],
+      [ "REVOCALIBRATION_MAGBIAS_Y", "revocalibration_8h.html#gga244c0407e32ad0219f4ac5974ace2451a3330c3fbcac0178ad2d968d53d4ae6f0", null ],
+      [ "REVOCALIBRATION_MAGBIAS_Z", "revocalibration_8h.html#gga244c0407e32ad0219f4ac5974ace2451a1e7b53e33425b3a4098552e26c6b5928", null ]
+    ] ],
+    [ "RevoCalibrationMagScaleElem", "revocalibration_8h.html#ga1cc9bf5f2f2daaf599fdae39fc82eb4a", [
+      [ "REVOCALIBRATION_MAGSCALE_X", "revocalibration_8h.html#gga1cc9bf5f2f2daaf599fdae39fc82eb4aab13de0bcee65b97dad060dfa894ed933", null ],
+      [ "REVOCALIBRATION_MAGSCALE_Y", "revocalibration_8h.html#gga1cc9bf5f2f2daaf599fdae39fc82eb4aa3e932a8b6f48d191fd0a1925770c43f3", null ],
+      [ "REVOCALIBRATION_MAGSCALE_Z", "revocalibration_8h.html#gga1cc9bf5f2f2daaf599fdae39fc82eb4aa27976e7a5f33d222a552578894bc03ec", null ]
+    ] ],
+    [ "RevoCalibrationHandle", "revocalibration_8h.html#gaba21fcb0d8a528bf66af20fb420e6978", null ],
+    [ "RevoCalibrationInitialize", "revocalibration_8h.html#gaa59ef87535d180d34f26a0e8058ef736", null ],
+    [ "RevoCalibrationMagBiasGet", "revocalibration_8h.html#ga2081dfa19e981432358dd5358406d88e", null ],
+    [ "RevoCalibrationMagBiasSet", "revocalibration_8h.html#ga8d3305964876a30d165a08078d4cb086", null ],
+    [ "RevoCalibrationMagScaleGet", "revocalibration_8h.html#ga8804433d5289a9f5817f9e0ae3c27dd6", null ],
+    [ "RevoCalibrationMagScaleSet", "revocalibration_8h.html#ga0234e0dccc5ccb124f81161418b6008c", null ],
+    [ "RevoCalibrationSetDefaults", "revocalibration_8h.html#ga826a0dd8b0be68955104479f85ecb01a", null ]
 ];

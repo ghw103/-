@@ -1,5 +1,6 @@
 var pios__board__info_8h =
 [
+    [ "pios_board_info", "structpios__board__info.html", "structpios__board__info" ],
     [ "__attribute__", "pios__board__info_8h.html#a9e0b8d4138cde5f7c541f3c1852fce6e", null ],
     [ "bl_rev", "pios__board__info_8h.html#a63ca217e7d9da1bf80b07a1cf62d5236", null ],
     [ "board_rev", "pios__board__info_8h.html#a9ab76e2043a7668f9ad6ffb17d88be37", null ],

@@ -7,7 +7,7 @@ var searchData=
   ['gcseventqueue',['gcsEventQueue',['../struct_radio_com_bridge_data.html#aacd7e5ae2cc543712ed4902c62ea4114',1,'RadioComBridgeData']]],
   ['gcstelemetryacked',['gcsTelemetryAcked',['../classuavobject_1_1_u_a_v_object_metadata.html#ac5e05f3b4b83c639c727a5e4729fc879',1,'uavobject::UAVObjectMetadata']]],
   ['gcstelemetryupdatemode',['gcsTelemetryUpdateMode',['../classuavobject_1_1_u_a_v_object_metadata.html#ab479d0f584976724f6b22b15ceb62b8f',1,'uavobject::UAVObjectMetadata']]],
-  ['gcstelemetryupdateperiod',['gcsTelemetryUpdatePeriod',['../classuavobject_1_1_u_a_v_object_metadata.html#a7ac85bf7eacc9bf93cb67c02a348c5d5',1,'uavobject::UAVObjectMetadata.gcsTelemetryUpdatePeriod()'],['../struct____attribute____.html#a6725d1b44961129705dbb1f209ba7b8d',1,'__attribute__::gcsTelemetryUpdatePeriod()']]],
+  ['gcstelemetryupdateperiod',['gcsTelemetryUpdatePeriod',['../classuavobject_1_1_u_a_v_object_metadata.html#a7ac85bf7eacc9bf93cb67c02a348c5d5',1,'uavobject.UAVObjectMetadata.gcsTelemetryUpdatePeriod()'],['../struct____attribute____.html#a6725d1b44961129705dbb1f209ba7b8d',1,'__attribute__::gcsTelemetryUpdatePeriod()']]],
   ['gdop',['gDOP',['../struct_u_b_x___n_a_v___d_o_p.html#a2b2e6160322047b85f23f1cb527bc6fd',1,'UBX_NAV_DOP']]],
   ['genpoly',['genPoly',['../rs_8c.html#abc09b23ea6197988bec9d69c3e92eb20',1,'rs.c']]],
   ['geoidseparation',['GeoidSeparation',['../struct____attribute____.html#a1b01d6f27599d171369372ef997520c9',1,'__attribute__']]],
@@ -25,7 +25,7 @@ var searchData=
   ['gpio_5finit',['gpio_init',['../structpios__servo__cfg.html#a41b9d93e4e94a3a0c5e40a4e42c6d117',1,'pios_servo_cfg']]],
   ['gpio_5finv_5fdisable',['gpio_inv_disable',['../structpios__sbus__cfg.html#a843ec7deaae570eeab1dc5770e77dafe',1,'pios_sbus_cfg']]],
   ['gpio_5finv_5fenable',['gpio_inv_enable',['../structpios__sbus__cfg.html#ab2b1ec166136b6e8ecfc96fa0c1319b5',1,'pios_sbus_cfg']]],
-  ['gps_5fvar',['gps_var',['../struct____attribute____.html#afe1df5cefaa9919447b3175a9711bd93',1,'__attribute__']]],
+  ['gps_5fvar',['gps_var',['../struct____attribute____.html#af2265403a2b38f9e2f8d4677ebc19761',1,'__attribute__']]],
   ['gpsairspeed',['GPSAirspeed',['../struct____attribute____.html#a48a824ca0a456909909e5b04287a600f',1,'__attribute__']]],
   ['gpsdataprotocol',['GPSDataProtocol',['../struct____attribute____.html#a66b998daa51777f1f455767be9e45ef2',1,'__attribute__']]],
   ['gpsfix',['gpsFix',['../struct_u_b_x___n_a_v___s_t_a_t_u_s.html#a9ada0b00d91062449f398439afec8e70',1,'UBX_NAV_STATUS::gpsFix()'],['../struct_u_b_x___n_a_v___s_o_l.html#ae821898e9ca043790d8f58da75355f38',1,'UBX_NAV_SOL::gpsFix()']]],
@@ -63,6 +63,6 @@ var searchData=
   ['gyrocalibtau',['gyroCalibTau',['../struct_global_dcm_drift_variables.html#a3b2a14d2ee0eb630e1d8048391e1fdd4',1,'GlobalDcmDriftVariables']]],
   ['gyrorange',['GyroRange',['../struct____attribute____.html#ac0eb1414736a20193d07da3b5357e3e8',1,'__attribute__']]],
   ['gyrosbias',['gyrosBias',['../group___state_estimation_filters.html#ga233a2d6850e9c466f80ae6bb2ebd98e8',1,'gyrosBias():&#160;state.c'],['../group___c_c_state.html#ga233a2d6850e9c466f80ae6bb2ebd98e8',1,'gyrosBias():&#160;state.c']]],
-  ['gyroscale',['GyroScale',['../struct____attribute____.html#a641633408758bb48296a0dd11ad3e1e5',1,'__attribute__']]],
+  ['gyroscale',['GyroScale',['../struct____attribute____.html#a80196fa9ac633e0867c9f64a2274274c',1,'__attribute__']]],
   ['gyrotau',['GyroTau',['../struct____attribute____.html#a815ad1283db7ded0e917804a4607a812',1,'__attribute__']]]
 ];

@@ -22,10 +22,11 @@ var searchData=
   ['hid_5fout',['hid_out',['../group___p_i_o_s___u_s_b___d_e_s_c.html#gad76c86a5c7e42e823404bf0e7ddff4f2',1,'usb_config_hid_cdc::hid_out()'],['../group___p_i_o_s___u_s_b___d_e_s_c.html#ga0bdaf8c80f7739bea621a6d5aa272641',1,'usb_config_hid_only::hid_out()'],['../group___p_i_o_s___u_s_b___d_e_s_c.html#ga0e5a30c27a737b9c3e117e4e8b755b8d',1,'hid_out():&#160;pios_usb_desc_hid_cdc.c'],['../group___p_i_o_s___u_s_b___d_e_s_c.html#ga0e5a30c27a737b9c3e117e4e8b755b8d',1,'hid_out():&#160;pios_usb_desc_hid_only.c']]],
   ['hmsl',['hMSL',['../struct_u_b_x___n_a_v___p_o_s_l_l_h.html#af78fd4a28f1595624f28d0df15bfcfac',1,'UBX_NAV_POSLLH']]],
   ['horizontalposp',['HorizontalPosP',['../struct____attribute____.html#a0aec3de4e46f73750728f57628963926',1,'__attribute__']]],
-  ['horizontalpospi',['HorizontalPosPI',['../struct____attribute____.html#aed9f724d8a83f86ca4561859a6be73f5',1,'__attribute__']]],
+  ['horizontalpospi',['HorizontalPosPI',['../struct____attribute____.html#ab58a4550d3555506726b16e90469ffeb',1,'__attribute__']]],
   ['horizontalvelmax',['HorizontalVelMax',['../struct____attribute____.html#ab3a0201d679bed158db23a5da5b35541',1,'__attribute__']]],
-  ['horizontalvelpid',['HorizontalVelPID',['../struct____attribute____.html#a807fbf2b692eb5983404e1c071e155b7',1,'__attribute__']]],
+  ['horizontalvelpid',['HorizontalVelPID',['../struct____attribute____.html#a186710eb04a99b00012174ec8a2a5236',1,'__attribute__']]],
   ['hour',['Hour',['../struct____attribute____.html#a55359118dfe602519ab7ee5a331c64a0',1,'__attribute__::Hour()'],['../struct_u_b_x___n_a_v___t_i_m_e_u_t_c.html#a6685b128ba202f68bbba28ce3877d496',1,'UBX_NAV_TIMEUTC::hour()'],['../group___p_i_o_s___v_i_d_e_o.html#gae7afd210e593b007611ac237bd32d30d',1,'TTime::hour()']]],
+  ['hoverthrottle',['HoverThrottle',['../struct____attribute____.html#a1de79cfc0b5fcca4b596649551ef8280',1,'__attribute__']]],
   ['hsync',['hsync',['../group___p_i_o_s___v_i_d_e_o.html#ga01589e94ad18d5c8d12f72778539f8aa',1,'pios_video_cfg']]],
   ['hw_5ftype',['hw_type',['../structpios__board__info.html#a3a94af2d49603c2cbef32e8b56e5c057',1,'pios_board_info::hw_type()'],['../pios__board__info_8h.html#a0ee8992bec085f1ae8974025885a455d',1,'hw_type():&#160;pios_board_info.h']]],
   ['hysteresisthresh',['HysteresisThresh',['../struct____attribute____.html#adaa69547dc164c300a970e8ec282fc3f',1,'__attribute__']]]

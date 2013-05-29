@@ -1,6 +1,6 @@
 var namespaces =
 [
-    [ "openpilot", "namespaceopenpilot.html", "namespaceopenpilot" ],
-    [ "test", "namespacetest.html", "namespacetest" ],
-    [ "uavobject", "namespaceuavobject.html", "namespaceuavobject" ]
+    [ "openpilot", "namespaceopenpilot.html", null ],
+    [ "test", "namespacetest.html", null ],
+    [ "uavobject", "namespaceuavobject.html", null ]
 ];

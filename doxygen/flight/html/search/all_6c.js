@@ -5,6 +5,7 @@ var searchData=
   ['lama_5floc',['lama_loc',['../group___o_s_d_g_e_n_module.html#ga35258f3e002e3b7d6dc3a50b458c1ed5',1,'osdgen.c']]],
   ['lamas',['lamas',['../group___o_s_d_g_e_n_module.html#ga78f00a89c30b0c4c25cb300a153efe54',1,'osdgen.c']]],
   ['lambda',['lambda',['../struct_w_m_mtype___coord_geodetic.html#aaf9acfaad6b8964779cbd7f0bfa96170',1,'WMMtype_CoordGeodetic::lambda()'],['../struct_w_m_mtype___coord_spherical.html#ac23771e3c14027441154228a3526bbfc',1,'WMMtype_CoordSpherical::lambda()']]],
+  ['landingrate',['LandingRate',['../struct____attribute____.html#a39b849a1fb414a2173e6d4458d08c703',1,'__attribute__']]],
   ['largecounter',['LargeCounter',['../structpios__ppm__dev.html#ac18ce6183b9943ec4bae05ec82c8b595',1,'pios_ppm_dev']]],
   ['last_5fbyte',['last_byte',['../structpios__i2c__adapter.html#a09797c133013f2126da829410d1df0c0',1,'pios_i2c_adapter']]],
   ['last_5ferror_5ftype',['last_error_type',['../struct____attribute____.html#a7b0de2ce3a07a118427206ffbcfa624f',1,'__attribute__']]],
@@ -40,11 +41,14 @@ var searchData=
   ['logfstestcookedmultipart',['LogfsTestCookedMultiPart',['../class_logfs_test_cooked_multi_part.html',1,'']]],
   ['logfstestraw',['LogfsTestRaw',['../class_logfs_test_raw.html',1,'']]],
   ['loggingupdatemode',['loggingUpdateMode',['../classuavobject_1_1_u_a_v_object_metadata.html#a1eb245c4c691dcf5bd245d13c76b10e2',1,'uavobject::UAVObjectMetadata']]],
-  ['loggingupdateperiod',['loggingUpdatePeriod',['../classuavobject_1_1_u_a_v_object_metadata.html#a42d69560bb4cd54063892f566a7d4b1d',1,'uavobject::UAVObjectMetadata.loggingUpdatePeriod()'],['../struct____attribute____.html#a85a81b55d67790a728b95eee989f17ed',1,'__attribute__::loggingUpdatePeriod()']]],
+  ['loggingupdateperiod',['loggingUpdatePeriod',['../classuavobject_1_1_u_a_v_object_metadata.html#a42d69560bb4cd54063892f566a7d4b1d',1,'uavobject.UAVObjectMetadata.loggingUpdatePeriod()'],['../struct____attribute____.html#a85a81b55d67790a728b95eee989f17ed',1,'__attribute__::loggingUpdatePeriod()']]],
   ['logon',['LogOn',['../struct____attribute____.html#aecd8cdce63308b584ce692e0fb67a233',1,'__attribute__']]],
   ['lon',['lon',['../struct_u_b_x___n_a_v___p_o_s_l_l_h.html#a754c2e4fe17d3fc6b627416bc1ff2110',1,'UBX_NAV_POSLLH']]],
   ['longitude',['Longitude',['../struct____attribute____.html#a62a5344a3012ae4a6b572825cc0431e1',1,'__attribute__']]],
   ['lower_5fid',['lower_id',['../structpios__adc__dev.html#aa77f358fd46e447f8059a7d9497f7445',1,'pios_adc_dev::lower_id()'],['../structpios__com__dev.html#a3447468fdb0c7996c3669046d48b4cb6',1,'pios_com_dev::lower_id()'],['../structpios__com__msg__dev.html#a08cc90d0b7c8cd94cd589c948234869b',1,'pios_com_msg_dev::lower_id()'],['../structpios__rcvr__dev.html#ae6499b31e342e883508673e1503ef9f8',1,'pios_rcvr_dev::lower_id()'],['../group___p_i_o_s___u_s_b___c_o_m.html#ga5431d5544be717a197964da5a3b08d2a',1,'pios_usb_cdc_dev::lower_id()'],['../group___p_i_o_s___u_s_b___h_i_d.html#ga088a37cd66d7047583d47a16a3381e4f',1,'pios_usb_hid_dev::lower_id()'],['../group___p_i_o_s___u_s_b___r_c_t_x.html#gab5b742c93aa7545ca0a497ffb8b0c298',1,'pios_usb_rctx_dev::lower_id()']]],
   ['lowthrottlezerointegral',['LowThrottleZeroIntegral',['../struct____attribute____.html#a7db230ee18e7e568573aa462bf15fcff',1,'__attribute__::LowThrottleZeroIntegral()'],['../group___stabilization_module.html#gaf67afab9d5822cab800d87ee04512e53',1,'lowThrottleZeroIntegral():&#160;stabilization.c']]],
-  ['lsm303_5fdev',['lsm303_dev',['../structlsm303__dev.html',1,'']]]
+  ['lsm303_5fdev',['lsm303_dev',['../structlsm303__dev.html',1,'']]],
+  ['l3gd20_20functions',['L3GD20 Functions',['../group___p_i_o_s___l3_g_d20.html',1,'']]],
+  ['led_20functions',['LED Functions',['../group___p_i_o_s___l_e_d.html',1,'']]],
+  ['lsm303_20functions',['LSM303 Functions',['../group___p_i_o_s___l_s_m303.html',1,'']]]
 ];

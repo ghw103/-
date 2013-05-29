@@ -1,28 +1,22 @@
 var vibrationanalysissettings_8h =
 [
-    [ "VibrationAnalysisSettingsFFTWindowSizeOptions", "group___vibration_analysis_settings.html#ga60caf653b6432a42f9ddd04e258db7b1", null ],
-    [ "VibrationAnalysisSettingsTestingStatusOptions", "group___vibration_analysis_settings.html#ga3587692f7b02eebcf94a1860d713db89", null ],
-    [ "VibrationAnalysisSettingsConnectCallback", "group___vibration_analysis_settings.html#ga7508e11fbe2724dff3dccbd1908898b9", null ],
-    [ "VibrationAnalysisSettingsConnectQueue", "group___vibration_analysis_settings.html#ga1cd8f7d3b1b88ee16f310e4a1e21a622", null ],
-    [ "VibrationAnalysisSettingsCreateInstance", "group___vibration_analysis_settings.html#gaf2ccc263f82dd69ef7dec1e0eee44134", null ],
-    [ "VibrationAnalysisSettingsFFTWindowSizeGet", "group___vibration_analysis_settings.html#ga21a35dffdba8fb625eaa65ee77286350", null ],
-    [ "VibrationAnalysisSettingsFFTWindowSizeSet", "group___vibration_analysis_settings.html#ga96de410a4447938a40334d59c253c468", null ],
-    [ "VibrationAnalysisSettingsGet", "group___vibration_analysis_settings.html#ga87b30bf4789ca771a75792bfcdf387a3", null ],
-    [ "VibrationAnalysisSettingsGetMetadata", "group___vibration_analysis_settings.html#ga6952344691b8e6f2fa443ddadeaafe76", null ],
-    [ "VibrationAnalysisSettingsHandle", "group___vibration_analysis_settings.html#ga7cc3f1f77abb78ee80b470e76b649c3a", null ],
-    [ "VibrationAnalysisSettingsInitialize", "group___vibration_analysis_settings.html#gaed868b927bde801e367ebc64b4a2f85f", null ],
-    [ "VibrationAnalysisSettingsInstGet", "group___vibration_analysis_settings.html#ga108ea3c6591e13d902e822004953a5ba", null ],
-    [ "VibrationAnalysisSettingsInstSet", "group___vibration_analysis_settings.html#gaae429bab0be39cca85fdda6b01454c5e", null ],
-    [ "VibrationAnalysisSettingsInstUpdated", "group___vibration_analysis_settings.html#ga333744a91acae0dfce585ac868583940", null ],
-    [ "VibrationAnalysisSettingsReadOnly", "group___vibration_analysis_settings.html#ga465d8730f25bb5c39e2f71921ba353b2", null ],
-    [ "VibrationAnalysisSettingsRequestInstUpdate", "group___vibration_analysis_settings.html#ga44102197f3480c3cb3c387e9702f4e84", null ],
-    [ "VibrationAnalysisSettingsRequestUpdate", "group___vibration_analysis_settings.html#ga56f7a9c9e1cd124dd257b852ca88dde3", null ],
-    [ "VibrationAnalysisSettingsSampleRateGet", "group___vibration_analysis_settings.html#ga9a00d813bf930107538661a4f5a69876", null ],
-    [ "VibrationAnalysisSettingsSampleRateSet", "group___vibration_analysis_settings.html#gad27ed310a79c3909a24091ca8f001962", null ],
-    [ "VibrationAnalysisSettingsSet", "group___vibration_analysis_settings.html#gabe9aad7effbe2e8f8b365ad4a4637823", null ],
-    [ "VibrationAnalysisSettingsSetDefaults", "group___vibration_analysis_settings.html#ga610488684849a4401cad7a0c92684414", null ],
-    [ "VibrationAnalysisSettingsSetMetadata", "group___vibration_analysis_settings.html#ga2d02ec3576aa99ff276adf69800ffa42", null ],
-    [ "VibrationAnalysisSettingsTestingStatusGet", "group___vibration_analysis_settings.html#ga5f98ad3ac8a4ebdf8506518f4ae31ce6", null ],
-    [ "VibrationAnalysisSettingsTestingStatusSet", "group___vibration_analysis_settings.html#ga40ce856ccec4c70c9b5a1c8021449c7f", null ],
-    [ "VibrationAnalysisSettingsUpdated", "group___vibration_analysis_settings.html#ga6c84ea5571db84fbff610716a0dcb963", null ]
+    [ "VibrationAnalysisSettingsFFTWindowSizeOptions", "vibrationanalysissettings_8h.html#ga60caf653b6432a42f9ddd04e258db7b1", [
+      [ "VIBRATIONANALYSISSETTINGS_FFTWINDOWSIZE_16", "vibrationanalysissettings_8h.html#gga60caf653b6432a42f9ddd04e258db7b1aeb1fb1ca17cf7da53b374f97785d115c", null ],
+      [ "VIBRATIONANALYSISSETTINGS_FFTWINDOWSIZE_64", "vibrationanalysissettings_8h.html#gga60caf653b6432a42f9ddd04e258db7b1a4bdeb173a6129c135e6478c6d327b74f", null ],
+      [ "VIBRATIONANALYSISSETTINGS_FFTWINDOWSIZE_256", "vibrationanalysissettings_8h.html#gga60caf653b6432a42f9ddd04e258db7b1acb204abb75385eda9d6bee597b5f4e69", null ],
+      [ "VIBRATIONANALYSISSETTINGS_FFTWINDOWSIZE_1024", "vibrationanalysissettings_8h.html#gga60caf653b6432a42f9ddd04e258db7b1afc5ff9b146458b1d932f9062873b546f", null ]
+    ] ],
+    [ "VibrationAnalysisSettingsTestingStatusOptions", "vibrationanalysissettings_8h.html#ga3587692f7b02eebcf94a1860d713db89", [
+      [ "VIBRATIONANALYSISSETTINGS_TESTINGSTATUS_OFF", "vibrationanalysissettings_8h.html#gga3587692f7b02eebcf94a1860d713db89aaeb9ce3b230ff1249bcecdfa3a8b17ef", null ],
+      [ "VIBRATIONANALYSISSETTINGS_TESTINGSTATUS_ON", "vibrationanalysissettings_8h.html#gga3587692f7b02eebcf94a1860d713db89a85f8706f9c7e18867ab6f5a2acb5734b", null ]
+    ] ],
+    [ "VibrationAnalysisSettingsFFTWindowSizeGet", "vibrationanalysissettings_8h.html#ga21a35dffdba8fb625eaa65ee77286350", null ],
+    [ "VibrationAnalysisSettingsFFTWindowSizeSet", "vibrationanalysissettings_8h.html#ga96de410a4447938a40334d59c253c468", null ],
+    [ "VibrationAnalysisSettingsHandle", "vibrationanalysissettings_8h.html#ga7cc3f1f77abb78ee80b470e76b649c3a", null ],
+    [ "VibrationAnalysisSettingsInitialize", "vibrationanalysissettings_8h.html#gaed868b927bde801e367ebc64b4a2f85f", null ],
+    [ "VibrationAnalysisSettingsSampleRateGet", "vibrationanalysissettings_8h.html#ga9a00d813bf930107538661a4f5a69876", null ],
+    [ "VibrationAnalysisSettingsSampleRateSet", "vibrationanalysissettings_8h.html#gad27ed310a79c3909a24091ca8f001962", null ],
+    [ "VibrationAnalysisSettingsSetDefaults", "vibrationanalysissettings_8h.html#ga610488684849a4401cad7a0c92684414", null ],
+    [ "VibrationAnalysisSettingsTestingStatusGet", "vibrationanalysissettings_8h.html#ga5f98ad3ac8a4ebdf8506518f4ae31ce6", null ],
+    [ "VibrationAnalysisSettingsTestingStatusSet", "vibrationanalysissettings_8h.html#ga40ce856ccec4c70c9b5a1c8021449c7f", null ]
 ];

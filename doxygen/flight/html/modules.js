@@ -6,6 +6,5 @@ var modules =
     [ "Tau Labs Targets", "group___tau_labs_targets.html", "group___tau_labs_targets" ],
     [ "Tau Labs Bootloaders", "group___tau_labs_bootloader.html", "group___tau_labs_bootloader" ],
     [ "Tau Labs Core components", "group___tau_labs_core.html", "group___tau_labs_core" ],
-    [ "UnitTests", "group___unit_tests.html", null ],
-    [ "OpenPilot UAVObjects", "group___u_a_v_objects.html", "group___u_a_v_objects" ]
+    [ "UnitTests", "group___unit_tests.html", "group___unit_tests" ]
 ];

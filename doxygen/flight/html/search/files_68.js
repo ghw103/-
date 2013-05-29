@@ -20,5 +20,7 @@ var searchData=
   ['hwrevolution_2ec',['hwrevolution.c',['../hwrevolution_8c.html',1,'']]],
   ['hwrevolution_2eh',['hwrevolution.h',['../hwrevolution_8h.html',1,'']]],
   ['hwrevomini_2ec',['hwrevomini.c',['../hwrevomini_8c.html',1,'']]],
-  ['hwrevomini_2eh',['hwrevomini.h',['../hwrevomini_8h.html',1,'']]]
+  ['hwrevomini_2eh',['hwrevomini.h',['../hwrevomini_8h.html',1,'']]],
+  ['hwsparky_2ec',['hwsparky.c',['../hwsparky_8c.html',1,'']]],
+  ['hwsparky_2eh',['hwsparky.h',['../hwsparky_8h.html',1,'']]]
 ];

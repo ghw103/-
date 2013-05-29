@@ -75,6 +75,7 @@ var searchData=
   ['boardrotation',['BoardRotation',['../struct____attribute____.html#a5147508dbc9acee939608efdf4581d55',1,'__attribute__']]],
   ['boardsupplyvoltage',['BoardSupplyVoltage',['../struct____attribute____.html#a1f3528a983ecc15aa2e897c31d350162',1,'__attribute__']]],
   ['boardtype',['BoardType',['../struct____attribute____.html#aa1c2b455eb4cbdda923ac671d58a9335',1,'__attribute__']]],
+  ['bootup_5fflags',['bootup_flags',['../group___p_i_o_s___w_d_g.html#ga52dc5a350735444a607b0dfd24d49371',1,'wdg_configuration']]],
   ['bootupflags',['BootupFlags',['../struct____attribute____.html#a49d1685ee043a9bb4a84efe65c7d02a5',1,'__attribute__']]],
   ['bparitytype',['bParityType',['../group___p_i_o_s___u_s_b___d_e_f_s.html#gad1b91d6baa7411fa9f6341140f5ac216',1,'usb_cdc_line_coding::bParityType()'],['../group___p_i_o_s___u_s_b___d_e_f_s.html#ga47f5ab7fcc915dedd560214e61438bc3',1,'bParityType():&#160;pios_usb_defs.h']]],
   ['brequest',['bRequest',['../group___p_i_o_s___u_s_b___d_e_f_s.html#ga55cbbe5ea2f7842c4df02bda43532cb5',1,'usb_setup_request::bRequest()'],['../group___p_i_o_s___u_s_b___d_e_f_s.html#ga1e7be110861bd4ff75c86d5214f31543',1,'bRequest():&#160;pios_usb_defs.h']]],

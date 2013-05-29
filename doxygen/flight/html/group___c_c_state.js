@@ -1,0 +1,55 @@
+var group___c_c_state =
+[
+    [ "attitudedrift.c", "attitudedrift_8c.html", null ],
+    [ "attitudedrift.h", "attitudedrift_8h.html", null ],
+    [ "sensorfetch.h", "sensorfetch_8h.html", null ],
+    [ "state.h", "state_8h.html", null ],
+    [ "sensorfetch.c", "sensorfetch_8c.html", null ],
+    [ "state.c", "state_8c.html", null ],
+    [ "GlobalDcmDriftVariables", "struct_global_dcm_drift_variables.html", [
+      [ "accels_e_integrator", "struct_global_dcm_drift_variables.html#aacbe312b74443ac8368010f90278706e", null ],
+      [ "accelsKp", "struct_global_dcm_drift_variables.html#a72471dea4e93a3fa653ba73556b61990", null ],
+      [ "delT_between_GPS", "struct_global_dcm_drift_variables.html#a00e780a5b38ecb97c9daccd52b0ef4cf", null ],
+      [ "gpsPresent_flag", "struct_global_dcm_drift_variables.html#ac7e3400f33023d97c131553ebefc9ce8", null ],
+      [ "GPSV_old", "struct_global_dcm_drift_variables.html#afb3e9353cbef8439a6f132ba9af70a3f", null ],
+      [ "gpsVelocityDataConsumption_flag", "struct_global_dcm_drift_variables.html#a27daf6a38cb6e81c64aba4bb8ac9f3fa", null ],
+      [ "gyroCalibTau", "struct_global_dcm_drift_variables.html#a3b2a14d2ee0eb630e1d8048391e1fdd4", null ],
+      [ "magNewData_flag", "struct_global_dcm_drift_variables.html#a225159950d82f32b3c5fe0d4014488cf", null ],
+      [ "omegaCorrI", "struct_global_dcm_drift_variables.html#a08c07c4b4d2fbc994b2eee3f0d4772b1", null ],
+      [ "rollPitchKi", "struct_global_dcm_drift_variables.html#a527cbde51d73c3c3fa34e5ce3b17454a", null ],
+      [ "rollPitchKp", "struct_global_dcm_drift_variables.html#a99a127bcaabe2e53c45a56eb568bc020", null ],
+      [ "yawKi", "struct_global_dcm_drift_variables.html#a81b393df9390fedc959c476b3c7381c6", null ],
+      [ "yawKp", "struct_global_dcm_drift_variables.html#af0f020f038b168267dd7f4fab0d26178", null ]
+    ] ],
+    [ "GPSGlobals", "struct_g_p_s_globals.html", [
+      [ "gpsVelOld_D", "struct_g_p_s_globals.html#a6e70b296af14e6a6535a67619bf2b915", null ],
+      [ "gpsVelOld_E", "struct_g_p_s_globals.html#af55098326f4e20fe87b1afcf1445d1f0", null ],
+      [ "gpsVelOld_N", "struct_g_p_s_globals.html#aed518d0e767d4418cae161cd79bcbb14", null ],
+      [ "RbeCol1_old", "struct_g_p_s_globals.html#a838fd35b2b5e092ed234f1e023a8a171", null ]
+    ] ],
+    [ "DRIFT_CORRECTION_ALGOS", "group___c_c_state.html#ga0c4491990a84594e2c930826b64b725c", [
+      [ "CCC", "group___c_c_state.html#gga0c4491990a84594e2c930826b64b725ca34fecf46a591d355d8d76d32e4b5d469", null ],
+      [ "PREMERLANI", "group___c_c_state.html#gga0c4491990a84594e2c930826b64b725ca7f012e6cc49436cc18a3204777eb9834", null ],
+      [ "CCC", "group___c_c_state.html#gga0c4491990a84594e2c930826b64b725ca34fecf46a591d355d8d76d32e4b5d469", null ],
+      [ "PREMERLANI", "group___c_c_state.html#gga0c4491990a84594e2c930826b64b725ca7f012e6cc49436cc18a3204777eb9834", null ],
+      [ "CCC", "group___c_c_state.html#gga0c4491990a84594e2c930826b64b725ca34fecf46a591d355d8d76d32e4b5d469", null ],
+      [ "PREMERLANI", "group___c_c_state.html#gga0c4491990a84594e2c930826b64b725ca7f012e6cc49436cc18a3204777eb9834", null ]
+    ] ],
+    [ "getSensorsCC", "group___c_c_state.html#ga7b51e65077e182551c02a9906849c8d8", null ],
+    [ "getSensorsCC", "group___c_c_state.html#ga525bb97712e9393c390475f4b14ad6ac", null ],
+    [ "getSensorsCC3D", "group___c_c_state.html#ga13859f6d28a13807ea66fa653165ba0e", null ],
+    [ "getSensorsCC3D", "group___c_c_state.html#gaefea6b47a03faf8d9d5af8093ccbc686", null ],
+    [ "gps_airspeed_initialize", "group___c_c_state.html#gaaedab067f447c531ce7d8339c7f06e54", null ],
+    [ "gps_airspeed_update", "group___c_c_state.html#gaf9e1d79b501c8669dc10e519ec0930a2", null ],
+    [ "MODULE_INITCALL", "group___c_c_state.html#gac687f4ea48d6390c8854b0a5a1250752", null ],
+    [ "StateInitialize", "group___c_c_state.html#gad59daafb348cfa8a33ce1d08eb2f8e5b", null ],
+    [ "StateStart", "group___c_c_state.html#ga9b5b60f1575dfa72f03b42b503e9095c", null ],
+    [ "updateAttitudeDrift", "group___c_c_state.html#gacf73f90ae39bfb7e42e688376f9cf5ef", null ],
+    [ "attitudeSettings", "group___c_c_state.html#ga8f6543ab52bafea6c0858baeeae8db59", null ],
+    [ "drft", "group___c_c_state.html#ga89657be5e41cdb8b74d42e587333115a", null ],
+    [ "firstpass_flag", "group___c_c_state.html#ga82c3e02e8def62d93a337dc338c4d6cd", null ],
+    [ "glblAtt", "group___c_c_state.html#ga76682d72011dc0109f1d5cf25a6c6da0", null ],
+    [ "gyrosBias", "group___c_c_state.html#ga233a2d6850e9c466f80ae6bb2ebd98e8", null ],
+    [ "MAX_TRIM_FLIGHT_SAMPLES", "group___c_c_state.html#ga6faaeb7ea10f4d232ea751bdcebb3aef", null ],
+    [ "sensorSettings", "group___c_c_state.html#ga7e2b26cdc0322ab9457559aa2b94f8fc", null ]
+];

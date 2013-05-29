@@ -2,6 +2,8 @@ var searchData=
 [
   ['tablet_5fcontrol_2ec',['tablet_control.c',['../tablet__control_8c.html',1,'']]],
   ['tablet_5fcontrol_2eh',['tablet_control.h',['../tablet__control_8h.html',1,'']]],
+  ['tabletinfo_2ec',['tabletinfo.c',['../tabletinfo_8c.html',1,'']]],
+  ['tabletinfo_2eh',['tabletinfo.h',['../tabletinfo_8h.html',1,'']]],
   ['taskinfo_2ec',['taskinfo.c',['../taskinfo_8c.html',1,'']]],
   ['taskinfo_2eh',['taskinfo.h',['../taskinfo_8h.html',1,'']]],
   ['taskmonitor_2ec',['taskmonitor.c',['../taskmonitor_8c.html',1,'']]],

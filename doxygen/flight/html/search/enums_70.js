@@ -1,11 +1,12 @@
 var searchData=
 [
-  ['pathdesiredendelem',['PathDesiredEndElem',['../group___path_desired.html#ga0609d99491ed429a75fbac01b867f701',1,'pathdesired.h']]],
-  ['pathdesiredmodeoptions',['PathDesiredModeOptions',['../group___path_desired.html#ga773ead02009d44ae352a67706d173c3b',1,'pathdesired.h']]],
-  ['pathdesiredstartelem',['PathDesiredStartElem',['../group___path_desired.html#ga79eb91a0469ead496a14736f19b0e13c',1,'pathdesired.h']]],
+  ['pathdesiredendelem',['PathDesiredEndElem',['../group___u_a_v_objects.html#ga0609d99491ed429a75fbac01b867f701',1,'pathdesired.h']]],
+  ['pathdesiredmodeoptions',['PathDesiredModeOptions',['../group___u_a_v_objects.html#ga773ead02009d44ae352a67706d173c3b',1,'pathdesired.h']]],
+  ['pathdesiredstartelem',['PathDesiredStartElem',['../group___u_a_v_objects.html#ga79eb91a0469ead496a14736f19b0e13c',1,'pathdesired.h']]],
   ['pathfollowertypes',['pathFollowerTypes',['../group___path_follower_module.html#ga4bbdbc4a4481bd273fb63fab3646c22b',1,'pathfollower.c']]],
-  ['pathplannersettingspreprogrammedpathoptions',['PathPlannerSettingsPreprogrammedPathOptions',['../group___path_planner_settings.html#ga6ea7b8e7859111de2c21447da680e040',1,'pathplannersettings.h']]],
-  ['pathstatusstatusoptions',['PathStatusStatusOptions',['../group___path_status.html#ga50f333bef7905171cfe26faf014f58f2',1,'pathstatus.h']]],
+  ['pathplannersettingsflashoperationoptions',['PathPlannerSettingsFlashOperationOptions',['../group___u_a_v_objects.html#gab39504c0e9d008f02378f67bc7ab2132',1,'pathplannersettings.h']]],
+  ['pathplannersettingspreprogrammedpathoptions',['PathPlannerSettingsPreprogrammedPathOptions',['../group___u_a_v_objects.html#ga6ea7b8e7859111de2c21447da680e040',1,'pathplannersettings.h']]],
+  ['pathstatusstatusoptions',['PathStatusStatusOptions',['../group___u_a_v_objects.html#ga50f333bef7905171cfe26faf014f58f2',1,'pathstatus.h']]],
   ['phpackettype',['PHPacketType',['../group___tau_labs_libraries.html#gafc6fe85f3c89dabc11ae43c825fb28ad',1,'packet_handler.h']]],
   ['pios_5fadc_5fdev_5fmagic',['pios_adc_dev_magic',['../group___p_i_o_s___a_d_c.html#gad4639b786d45b213ac842a0c4cf3e78d',1,'pios_adc_dev_magic():&#160;pios_adc.c'],['../group___p_i_o_s___a_d_c.html#gad4639b786d45b213ac842a0c4cf3e78d',1,'pios_adc_dev_magic():&#160;pios_internal_adc.c']]],
   ['pios_5fadxl345_5fdev_5fmagic',['pios_adxl345_dev_magic',['../group___p_i_o_s___a_d_x_l345.html#ga2f1fd1a4af16c722d816221da8924b5c',1,'pios_adxl345.c']]],
